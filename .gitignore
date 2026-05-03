@@ -50,3 +50,5 @@ test-results.json
 .mockery.log
 build.log
 sidecar.py.orig
+config.bat
+node_modules
